@@ -1,0 +1,27 @@
+[
+  {
+    "content": "WhatsApp: Don't forget to send the project update to the client by Friday. Also, need to schedule a meeting with the design team.",
+    "context_type": "whatsapp",
+    "timestamp": "2025-07-04T10:30:00Z"
+  },
+  {
+    "content": "Email: The monthly report is due next week. Please review the draft and add your comments. Action item: finalize the budget.",
+    "context_type": "email",
+    "timestamp": "2025-07-03T15:45:00Z"
+  },
+  {
+    "content": "Note: Buy groceries for the week. Remember to check the medicine stock. Plan weekend trip.",
+    "context_type": "note",
+    "timestamp": "2025-07-02T08:00:00Z"
+  },
+  {
+    "content": "WhatsApp: Urgent! The server is down. Need to coordinate with IT and resolve ASAP.",
+    "context_type": "whatsapp",
+    "timestamp": "2025-07-05T09:20:00Z"
+  },
+  {
+    "content": "Email: Team, please submit your timesheets by end of day. Don't forget to update the project tracker.",
+    "context_type": "email",
+    "timestamp": "2025-07-05T11:00:00Z"
+  }
+]
